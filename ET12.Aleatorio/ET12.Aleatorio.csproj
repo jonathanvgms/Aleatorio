@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Jonathan Velazquez</Authors>
+    <Company>ET12 DE1 Lib. Gral. Jose de San Martin</Company>
+    <Description>Biblioteca C# que genera datos semánticos sobre una persona</Description>
+    <RepositoryUrl>https://github.com/et12poo/Aleatorio</RepositoryUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
