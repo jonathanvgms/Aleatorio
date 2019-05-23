@@ -4,9 +4,10 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <Authors>Jonathan Velazquez</Authors>
     <Company>ET12 DE1 Lib. Gral. Jose de San Martin</Company>
-    <Description>Biblioteca C# que genera datos semánticos sobre una persona</Description>
+    <Description>Biblioteca C# que genera datos semánticos</Description>
     <RepositoryUrl>https://github.com/et12poo/Aleatorio</RepositoryUrl>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
 </Project>
